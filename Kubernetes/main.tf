@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIA2QRAI6UUJAXB7XNP"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 # VPC - Production & Staging
 module "vpc" {
